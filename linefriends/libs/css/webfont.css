@@ -1,0 +1,38 @@
+/* NanumBarunGothic font */
+@font-face {
+ font-family: 'NanumBarunGothic';
+ src: url(../font/NanumBarunGothic/NanumBarunGothic.eot);
+ src: url(../font/NanumBarunGothic/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+      url(../font/NanumBarunGothic/NanumBarunGothic.woff) format('woff'),
+      url(../font/NanumBarunGothic/NanumBarunGothic.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'NanumBarunGothicBold';
+ src: url(../font/NanumBarunGothic/NanumBarunGothicBold.eot);
+ src: url(../font/NanumBarunGothic/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+      url(../font/NanumBarunGothic/NanumBarunGothicBold.woff) format('woff'),
+      url(../font/NanumBarunGothic/NanumBarunGothicBold.ttf) format('truetype');
+}
+
+/*  roboto font */
+@font-face {
+ font-family: 'roboto';
+ src: url(../font/roboto/Roboto-Regular.eot);
+ src: url(../font/roboto/Roboto-Regular.eot?#iefix) format('embedded-opentype'),
+      url(../font/roboto/Roboto-Regular.woff) format('woff'),
+      url(../font/roboto/Roboto-Regular.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'robotoLight';
+ src: url(../font/roboto/Roboto-Light.eot);
+ src: url(../font/roboto/Roboto-Light.eot?#iefix) format('embedded-opentype'),
+      url(../font/roboto/Roboto-Light.woff) format('woff'),
+      url(../font/roboto/Roboto-Light.ttf) format('truetype');
+}
+
+@font-face {
+ font-family: 'robotoBold';
+ src: url(../font/roboto/Roboto-Bold.eot);
+ src: url(../font/roboto/Roboto-Bold.eot?#iefix) format('embedded-opentype'),
+      url(../font/roboto/Roboto-Bold.woff) format('woff'),
+      url(../font/roboto/Roboto-Bold.ttf) format('truetype');
