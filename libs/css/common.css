@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css);
+*{padding:0; margin:0}
+
+html,body,button{font-family: 'Lora', serif; font-size:14px;}
+
+body,html,ul,li,dl,dt,dd,ol,img,a,{margin:0; padding:0}
+ul,ol,li,dl,dt,dd { list-style:none; }
+a{text-decoration:none; color:#333; }
+
+button { background-color:transparent; border:none; cursor:pointer; }
+
+
+/* color */
+.mainColor { color:#b8ac93;}
+.subColorGrey { color:#a5a5a5; }
+.subColorDark { color:#545454;}
+.subColorGold { color:#83724d;}
+
+/* font-size */
+
+.fs12 { font-size:12px;}
+.fs14 { font-size:14px;}
+.fs16 { font-size:16px;}
+.fs18 { font-size:18px;}
+.fs20 { font-size:20px;}
+.fs22 { font-size:22px;}
+.fs24 { font-size:24px;}
+.fs26 { font-size:26px;}
+.fs28 { font-size:28px;}
+.fs30 { font-size:30px;}
+.fs32 { font-size:32px;}
+.fs34 { font-size:34px;}
+.fs36 { font-size:36px;}
+.fs38 { font-size:38px;}
+.fs40 { font-size:40px;}
+.fs150 { font-size:150px;}
+/* font-weight */
+
+.fW100 {font-weight:100;}
+.fW200 {font-weight:200;}
+.fW300 {font-weight:300;}
+.fW400 {font-weight:400;}
+.fW500 {font-weight:500;}
+.fW600 {font-weight:600;}
+.fW700 {font-weight:700;}
+.fW800 {font-weight:800;}
+.fW900 {font-weight:900;}
+
+/* line-heigth */
+
+.lH10 { line-height:10px; }
+.lH20 { line-height:20px;}
+.lH30 { line-height:30px; }
+.lH40 { line-height:40px; }
+.lH50 { line-height:50px; }
+.lHP180 { line-height:500%; }
